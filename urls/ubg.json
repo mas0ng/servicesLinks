@@ -1,14 +1,10 @@
 [
   {
     "name": "2048",
-    "game_url": "https://play2048.co/"
+    "game_url": "https://play2048.co"
   },
   {
-    "name": "Snake",
-    "game_url": "https://playsnake.org/"
-  },
-  {
-    "name": "Tetris",
-    "game_url": "https://freetetris.org/game.php"
+    "name": "snake",
+    "game_url": "https://playsnake.org"
   }
 ]
