@@ -1,10 +1,12 @@
 [
   {
     "name": "2048",
-    "game_url": "https://play2048.co"
+    "game_url": "https://play2048.co",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/2048.png"
   },
   {
     "name": "snake",
-    "game_url": "https://playsnake.org"
+    "game_url": "https://playsnake.org",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/snake.png"
   }
 ]
