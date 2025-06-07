@@ -21,12 +21,17 @@
   },
   {
     "name": "Survival karts",
-    "game_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity3/survival-karts/pre.html",
+    "game_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity3/survival-karts/index.html",
     "icon_url": "https://services.depoxt.xyz/icons/ubg/survival-karts.jpg"
   },
   {
+    "name": "Super car driving",
+    "game_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity2/super-car-driving/index.html",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/super-car-driving.jpg"
+  },
+  {
     "name": "Stickman GTA city",
-    "game_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity3/stickman-gta-city/pre.html",
+    "game_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity3/stickman-gta-city/index.html",
     "icon_url": "https://services.depoxt.xyz/icons/ubg/stickman-gta-city.jpg"
   },
   {
