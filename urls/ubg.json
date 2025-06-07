@@ -19,7 +19,16 @@
     "game_url": "https://tbg95.github.io/mr-bullet/game.html",
     "icon_url": "https://services.depoxt.xyz/icons/ubg/mr-bullet.png"
   },
-
+  {
+    "name": "Survival karts",
+    "game_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity3/survival-karts/pre.html",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/survival-karts.jpg"
+  },
+  {
+    "name": "Stickman GTA city",
+    "game_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity3/stickman-gta-city/pre.html",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/stickman-gta-city.jpg"
+  },
   {
     "name": "Block Blast",
     "game_url": "https://storage.googleapis.com/freezenova/all/2024/unity3/block-blast/index-gg.html",
