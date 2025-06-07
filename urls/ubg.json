@@ -1,10 +1,5 @@
 [
   {
-    "name": "2048",
-    "game_url": "https://play2048.co",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/2048.png"
-  },
-  {
     "name": "Stickman boost",
     "game_url": "https://hypackel.github.io/projects/stickman-boost/index.html",
     "icon_url": "https://services.depoxt.xyz/icons/ubg/stickman-boost.png"
@@ -20,8 +15,14 @@
     "icon_url": "https://services.depoxt.xyz/icons/ubg/capybara-clicker.png"
   },
   {
-    "name": "snake",
-    "game_url": "https://playsnake.org/",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/snake.png"
+    "name": "Mr Bullet",
+    "game_url": "https://tbg95.github.io/mr-bullet/game.html",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/mr-bullet.png"
+  },
+
+  {
+    "name": "Block Blast",
+    "game_url": "https://storage.googleapis.com/freezenova/all/2024/unity3/block-blast/index-gg.html",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blockblast.jpg"
   }
 ]
