@@ -1,42 +1,12 @@
 [
   {
-    "name": "Stickman boost",
-    "game_url": "https://hypackel.github.io/projects/stickman-boost/index.html",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/stickman-boost.png"
+    "name": "Johnny Trigger",
+    "game_url": "https://script.google.com/macros/s/AKfycbzvmc1XOx1iH6jw_4tOhj61kPftEGZA_d73qjlmaZRufjrdpmIgTn3J5cuFDdZyN6I/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
   },
   {
-    "name": "x3m motor",
-    "game_url": "https://gnhustgames.github.io/x3mmotor/",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/x3mmotor.jpeg"
-  },
-  {
-    "name": "Capybara clicker",
-    "game_url": "https://bitlifeonline.github.io/capybara-clicker/",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/capybara-clicker.png"
-  },
-  {
-    "name": "Mr Bullet",
-    "game_url": "https://tbg95.github.io/mr-bullet/game.html",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/mr-bullet.png"
-  },
-  {
-    "name": "Survival karts",
-    "game_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity3/survival-karts/index.html",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/survival-karts.jpg"
-  },
-  {
-    "name": "Super car driving",
-    "game_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity2/super-car-driving/index.html",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/super-car-driving.jpg"
-  },
-  {
-    "name": "Stickman GTA city",
-    "game_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity3/stickman-gta-city/index.html",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/stickman-gta-city.jpg"
-  },
-  {
-    "name": "Block Blast",
-    "game_url": "https://storage.googleapis.com/freezenova/all/2024/unity3/block-blast/index-gg.html",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/blockblast.jpg"
+    "name": "Save My Pet",
+    "game_url": "https://script.google.com/macros/s/AKfycbzzzBlqpi-UH1EolZkm_TwyvFbgdV6fuWz_IjtPNgQ8ZhiPtGODuz0NvWvNlMUVWoeS/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
   }
 ]
