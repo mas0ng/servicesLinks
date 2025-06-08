@@ -2,17 +2,17 @@
   {
     "name": "Johnny Trigger",
     "game_url": "https://script.google.com/macros/s/AKfycbzvmc1XOx1iH6jw_4tOhj61kPftEGZA_d73qjlmaZRufjrdpmIgTn3J5cuFDdZyN6I/exec",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/JohnnyTrigger.jpeg"
   },
   {
     "name": "Basketball Stars",
     "game_url": "https://script.google.com/macros/s/AKfycbwzYMDDcdDUAvEP7iO6OdRk-5_oUp6vYvDdyEEz8tTOzWi5y4-Qf3vQ6TBoZuc9UYVcLg/exec",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/BasketballStars.png"
   },
   {
     "name": "Smash Karts",
     "game_url": "https://script.google.com/macros/s/AKfycbx63iRe5mtf5PQGIn_eGwKePxCA1iU6w-YApn57Mh4phi2ZB-G-GCJA1YTV9jKrwoqb/exec",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/SmashKarts.jpeg"
   },
   {
     "name": "Barry Prison Escape",
@@ -22,7 +22,7 @@
   {
     "name": "Rooftop Snipers",
     "game_url": "https://script.google.com/macros/s/AKfycbyoVKqSi44yCkcl01rp17c7Dluj_4Q9P5kSsqGcf02xgBTx_mT6jik17o2mhkGgd9Yj/exec",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/RooftopSnipers.jpg"
   },
   {
     "name": "Italian Animals Playground",
@@ -32,7 +32,7 @@
   {
     "name": "Hole.io",
     "game_url": "https://script.google.com/macros/s/AKfycbwSQ0aXrXdz23Z0adlljZLtt6EGzD7max6U15OnUFBxhQmht6KK7l7RzsVo2wOdkoXR/exec",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/Holeio.png"
   },
   {
     "name": "Melon Playground",
@@ -42,11 +42,11 @@
   {
     "name": "Cluster Rush",
     "game_url": "https://script.google.com/macros/s/AKfycbw6e8fflbfydV7kom5id09nKaM6ix0hLlXHbs3XHOnxzrndUgPtHUHENrwKomI2Hpk3/exec",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/ClusterRush.jpeg"
   },
   {
     "name": "Save My Pet",
     "game_url": "https://script.google.com/macros/s/AKfycbzzzBlqpi-UH1EolZkm_TwyvFbgdV6fuWz_IjtPNgQ8ZhiPtGODuz0NvWvNlMUVWoeS/exec",
-    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/SaveMyPet.png"
   }
 ]
