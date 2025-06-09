@@ -45,6 +45,106 @@
     "icon_url": "https://services.depoxt.xyz/icons/ubg/ClusterRush.jpeg"
   },
   {
+    "name": "2 Player Chess",
+    "game_url": "https://script.google.com/macros/s/AKfycbwD4aYk8804rFEa2GleUacBH110qmzS8bz-wHnRTTigY2HkE3iafHYLRCkH0nUGc_oA/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Merge fellas brainrot",
+    "game_url": "https://script.google.com/macros/s/AKfycbxKeACMsdA3N71Rk2wolGOxrBqYz9UXnTo0o_Z4nvyh-z0SjoPO5UnfTLQXgsZQey4a/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Minecraft Mart",
+    "game_url": "https://script.google.com/macros/s/AKfycbwL6dakjDFbaxPfEWUntO8xFGmjo6Z5TQo3hIUdkS2lcFlFMbNmEwvuV93hxYXX083fOw/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Moto X3M Winter",
+    "game_url": "https://script.google.com/macros/s/AKfycbwe0AePQawdLVOUfq5mDmm1EFX4xDeNzs9wDLexIwzvtHhLvbbq1G8fwxJjVnAotrFo/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Omega Nuggets Clicker",
+    "game_url": "https://script.google.com/macros/s/AKfycbzjgnGGeTNL2DTjJzVx3WGvsLjEyA47O6xYss-ijTLWWwrQv9siK9Gn_QqNDlDkrc27/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Zombies Sandbox",
+    "game_url": "https://script.google.com/macros/s/AKfycbxutg4sKZIHB5Nu6jyZ1PcIze8YSbsHFDx8xJraC4VHAfJOu4If-Tk7swki5Mia_IGY/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Car Driving",
+    "game_url": "https://script.google.com/macros/s/AKfycbzQlpr1tIkhRPz587329iVg2MEKG1JuFGIsqoiaxezladgDxbYHMpwNiIUTn_5T16w6/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Pixel Shooter",
+    "game_url": "https://script.google.com/macros/s/AKfycbwgLUpgbADEdCFDRp0NnFSr310OUnQMg6zj69o0Tu2UBe_nICkRNiqcBorb5IYBIeLQig/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Noob Miner",
+    "game_url": "https://script.google.com/macros/s/AKfycbxkvPO4mEcWEk5a9TgEuR7qyiYZs7hL80XF5pwK8QMKHqmA7qUqxvIePB3PF9c3Bqc93w/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Stickman Duel",
+    "game_url": "https://script.google.com/macros/s/AKfycbwAoTmRTzE6ydvLBsbUcwDvlzS36xbr263_ttMmz8pBgmf0ih3RHJNeYFe3-evGMeMF/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Hanger 2",
+    "game_url": "https://script.google.com/macros/s/AKfycbxhkIwgROe7gPhcbvQmpy88tk6nWZ8mDYRGeKnMPKgO8U0-mIiRsNFpSRDx1scxX4bO/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Roblox Obby Parkour",
+    "game_url": "https://script.google.com/macros/s/AKfycbx-uaFWRwY1q4Gv7pRrd9PR3zbbmsKV5PTGPQZ11-u3EWCiD4xeM2V3_1JBvmJQNxSshw/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Snow Rider 3D",
+    "game_url": "https://script.google.com/macros/s/AKfycbw5Z-Ryg_JfIIDYH7pzzPKXlr2tN0HCw-tT_ZvxBGDPsDDY41ewPVneVeLzelfpnBab/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Mr Racer",
+    "game_url": "https://script.google.com/macros/s/AKfycbxeLEpzZpAIPrMSkB1dCTPkLcn8wcNTVCw0wfN2q_jOfXWQ3GhcrqygfgQq1t2yyK6tCQ/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Strongman Simulator",
+    "game_url": "https://script.google.com/macros/s/AKfycbxLkugSSEdQm0qJQ4PZWRce6p8pKpuPdLIFeivG0cMt-QmjEjedBCarzz_kd2tlvxzs/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Snowball.io",
+    "game_url": "https://script.google.com/macros/s/AKfycbxa3OjBw8KWer3YhEXl1wxoe1uQKNo-wgGuqPO3NTndX566TTs10-ioXopEPitTvE-B/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Boxing Random",
+    "game_url": "https://script.google.com/macros/s/AKfycbwWFVSflZjpFKgB73dzoNbl5d044y0_BcfrRyVqgfURdUZHpHJUDEeQS1ABGGqXmFoo/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Merge Fruits",
+    "game_url": "https://script.google.com/macros/s/AKfycbxWngUzKXgiuLw8NOMvvPpH22STOer33RrFCMx6aBgVObUJ7ArfNZoOe4m75_ahoTni8Q/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Car King Arena",
+    "game_url": "https://script.google.com/macros/s/AKfycbz6GTepbaULO9dEqHBzfb2Rm0C3pdSKcKnaOGr6qAWXxoppLkkA65v3vTgsDS4o7W56aQ/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
+    "name": "Noob vs Pro",
+    "game_url": "https://script.google.com/macros/s/AKfycbw36YJXQuFePbQLTsbwoOCRZNerc571a7IyuaSsAiP7NhVCjJd3qOCPoPJukQ7Ld2V0/exec",
+    "icon_url": "https://services.depoxt.xyz/icons/ubg/blank.png"
+  },
+  {
     "name": "Save My Pet",
     "game_url": "https://script.google.com/macros/s/AKfycbzzzBlqpi-UH1EolZkm_TwyvFbgdV6fuWz_IjtPNgQ8ZhiPtGODuz0NvWvNlMUVWoeS/exec",
     "icon_url": "https://services.depoxt.xyz/icons/ubg/SaveMyPet.png"
